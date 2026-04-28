@@ -4,7 +4,7 @@
 
 ### AI-Native Developer · Scientific Computing & HPC · Senior Software Engineer · Frontend & Backend
 
-`JavaScript` `TypeScript` `React` `Node.js` `Flutter` `React Native` `Rust` `Python` `FEM` `MD` `HPC`
+`Python` `Rust` `C` `HPC` `JavaScript` `TypeScript` `Node.js` `Dart` `Flutter` `React Native` `C`  `FEM` `MD` 
 
 [![Location](https://img.shields.io/badge/📍-Berlin%2C%20Germany-0078D4?style=flat-square)](https://github.com/sharifme04)
 [![Email](https://img.shields.io/badge/📧-sharifmech04%40gmail.com-EA4335?style=flat-square)](mailto:sharifmech04@gmail.com)
@@ -228,7 +228,7 @@ I am open to a **wide range of roles** — not limited to scientific computing:
 | ⚙️ Backend & Systems | Rust (Axum), Node.js, PostgreSQL, Redis, WebSocket, WebRTC |
 | 📱 Mobile | Flutter · React Native · Redux · offline-first · Drift/SQLite · flutter_rust_bridge FFI |
 
-> ⭐ Available for **frontend, full-stack, AI-native, backend, or computational engineering** roles · Berlin or remote
+> ⭐ Available for **AI-native,Scientific programming, frontend, full-stack, backend, or computational engineering** roles · Berlin or remote
 
 ---
 
