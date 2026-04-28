@@ -4,8 +4,12 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=110&lines=Md.+Sharif+Hossain;AI-Native+%7C+Senior+Software+Engineer;Scientific+Computing+%26+HPC+%7C+Frontend+%26+Backend" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=70&lines=Md.+Sharif+Hossain" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <b>AI-Native Developer &nbsp;·&nbsp; Senior Software Engineer &nbsp;·&nbsp; Scientific Computing &amp; HPC &nbsp;·&nbsp; Frontend &amp; Backend</b>
 </p>
 
 <div align="center">
