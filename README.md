@@ -27,7 +27,7 @@ I am **not limited to one domain** — I can deliver across:
 <td>🔬 Computational / HPC — FEM (MATLAB + Rust), MD, DEM, Monte Carlo, HPC solvers from scratch</td>
 </tr>
 <tr>
-<td>🖥️ Frontend — React, TypeScript, JavaScript, Angular, Redux, Redux-Saga</td>
+<td>🖥️ Frontend — React, TypeScript, JavaScript, Angular, Redux, Redux-Saga, Apollo GraphQL, Flutter, React native</td>
 <td>⚙️ Backend — Node.js, Axum (Rust), PostgreSQL, Redis, MongoDB, WebSocket, WebRTC</td>
 </tr>
 <tr>
@@ -96,9 +96,9 @@ Doctoral-level coursework:
 
 | Course | Topics |
 |---|---|
-| Selected Topics of FEM | CST elements, sparse assembly, weak form derivation · MATLAB & C |
-| High Performance Computing & Optimisation | OpenMP, NUMA topology, hardware counters, BLAS benchmarking |
-| Stochastic Methods for Materials Science | NLopt COBYLA, Monte Carlo confidence bands, Boolean models |
+| Selected Topics of FEM | CST elements, sparse assembly, weak form derivation · MATLAB, Fortran,Python & C |
+| High Performance Computing & Optimisation| C | OpenMP, NUMA topology, hardware counters, BLAS benchmarking |
+| Stochastic Methods for Materials Science| C | NLopt COBYLA, Monte Carlo confidence bands, Boolean models |
 | Molecular Dynamics | Nosé–Hoover thermostat, symplecticity proofs, Velocity Verlet |
 | Numerical Analysis of Differential Equations | ODE/PDE solvers, stability, convergence |
 | Dislocation Theory & DEM | Contact mechanics, granular flow |
