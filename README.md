@@ -89,7 +89,7 @@ I am **not limited to one domain** — I can deliver across:
 
 ## 🎓 Education
 
-### M.Sc. Computational Materials Science — 2011–2015
+### M.Sc. Computational Materials Science 
 Germany
 
 Doctoral-level coursework:
@@ -107,7 +107,7 @@ Doctoral-level coursework:
 
 **Research Engineer (Project Role)** — FEM Simulation, Montanuniversity Leoben *(Feb–Jun 2016)*
 
-### B.Sc. Mechanical Engineering — 2004–2009
+### B.Sc. Mechanical Engineering
 Bangladesh
 
 ---
