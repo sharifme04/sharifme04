@@ -188,14 +188,14 @@ Bangladesh
 
 ## 💼 Industry Experience
 
-### Senior Frontend Developer · ML!PA Consulting GmbH, Berlin *(Nov 2022 – Dec 2025)*
+### Senior Software Developer *
 - Built large-scale **React + TypeScript** web applications with Apollo GraphQL and complex state management
 - Developed **React Native** mobile solutions integrating GPS tracking and IoT device data
 - Implemented **Playwright E2E** testing suites and established CI/CD quality gates
 - Designed reusable UI component systems with Material UI, Storybook, and Figma
 - Integrated **Claude, GPT, Gemini** into daily engineering workflows — architecture reviews, code auditing, prompt-driven implementation
 
-### Senior Software Developer · MYEGO2GO, Berlin *(Oct 2020 – Sep 2022)*
+### Senior Software Developer *(Oct 2020 – Sep 2022)*
 - Built the entire mobile web app from scratch through to production — sole frontend engineer on the web product
 - Implemented a complete **biometric liveness-detection flow**: OCR-based ID extraction, real-time liveness challenge (eye/smile sequence), verification completion
 - Tech stack: React.js, React Native, Redux-saga, Node.js, AWS
