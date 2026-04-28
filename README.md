@@ -9,7 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d419d,100:1f6feb&height=55&text=AI-Native%20Developer%20%C2%B7%20Senior%20Software%20Engineer%20%C2%B7%20Scientific%20Computing%20%26%20HPC%20%C2%B7%20Frontend%20%26%20Backend&fontColor=ffffff&fontSize=17&fontAlign=50&fontAlignY=55" />
+  <img src="https://img.shields.io/badge/AI--Native%20Developer-1f6feb?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Senior%20Software%20Engineer-0d419d?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scientific%20Computing%20%26%20HPC-1a5f4a?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend%20%26%20Backend-4a1d96?style=for-the-badge&logoColor=white" />
 </p>
 
 <div align="center">
