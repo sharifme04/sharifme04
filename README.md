@@ -33,7 +33,7 @@ I am **not limited to one domain** — I can deliver across:
 
 <table>
 <tr>
-<td>🤖 AI-Native Development — Claude, GPT, Gemini, MCP, prompt engineering, multi-model workflows</td>
+<td>🤖 AI-Native Development — Claude, GPT, Gemini, MCP, prompt engineering, multi-model workflows, Software architecture</td>
 <td>🔬 Computational / HPC — FEM (MATLAB + Rust), MD, DEM, Monte Carlo, HPC solvers from scratch</td>
 </tr>
 <tr>
