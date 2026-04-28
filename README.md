@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>AI-Native Developer &nbsp;·&nbsp; Senior Software Engineer &nbsp;·&nbsp; Scientific Computing &amp; HPC &nbsp;·&nbsp; Frontend &amp; Backend</b>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d419d,100:1f6feb&height=55&text=AI-Native%20Developer%20%C2%B7%20Senior%20Software%20Engineer%20%C2%B7%20Scientific%20Computing%20%26%20HPC%20%C2%B7%20Frontend%20%26%20Backend&fontColor=ffffff&fontSize=17&fontAlign=50&fontAlignY=55" />
 </p>
 
 <div align="center">
@@ -24,6 +24,8 @@
 </div>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d419d,100:1f6feb&height=38&text=%F0%9F%9A%80%20About%20Me&fontColor=ffffff&fontSize=18&fontAlign=5&fontAlignY=65" />
 
 ## 🚀 About Me
 
@@ -47,6 +49,8 @@ I am **not limited to one domain** — I can deliver across:
 </table>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a5f4a,100:21867a&height=38&text=%F0%9F%94%AC%20Scientific%20Computing%20Portfolio%20%E2%80%94%20Rust%20(All%20From%20Scratch)&fontColor=ffffff&fontSize=16&fontAlign=5&fontAlignY=65" />
 
 ## 🔬 Scientific Computing Portfolio — Rust (All From Scratch)
 
@@ -97,6 +101,8 @@ I am **not limited to one domain** — I can deliver across:
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4a1d96,100:7c3aed&height=38&text=%F0%9F%8E%93%20Education&fontColor=ffffff&fontSize=18&fontAlign=4&fontAlignY=65" />
+
 ## 🎓 Education
 
 ### M.Sc. Computational Materials Science 
@@ -121,6 +127,8 @@ Doctoral-level coursework:
 Bangladesh
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:b45309,100:d97706&height=38&text=%F0%9F%A7%A0%20Technical%20Skills&fontColor=ffffff&fontSize=18&fontAlign=4&fontAlignY=65" />
 
 ## 🧠 Technical Skills
 
@@ -178,6 +186,8 @@ Bangladesh
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a5f,100:2563eb&height=38&text=%F0%9F%92%BC%20Industry%20Experience&fontColor=ffffff&fontSize=18&fontAlign=4&fontAlignY=65" />
+
 ## 💼 Industry Experience
 
 ### Senior Frontend Developer · ML!PA Consulting GmbH, Berlin *(Nov 2022 – Dec 2025)*
@@ -208,6 +218,8 @@ Bangladesh
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:374151&height=38&text=%F0%9F%93%8A%20GitHub%20Stats&fontColor=ffffff&fontSize=18&fontAlign=4&fontAlignY=65" />
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -220,11 +232,15 @@ Bangladesh
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:166534,100:16a34a&height=38&text=%F0%9F%8C%8D%20Languages&fontColor=ffffff&fontSize=18&fontAlign=4&fontAlignY=65" />
+
 ## 🌍 Languages
 
 **Bangla** (Native) · **English** (Fluent) · **German** (B1)
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c2d12,100:ea580c&height=38&text=%F0%9F%8E%AF%20Open%20To&fontColor=ffffff&fontSize=18&fontAlign=4&fontAlignY=65" />
 
 ## 🎯 Open To
 
