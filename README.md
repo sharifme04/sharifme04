@@ -2,7 +2,7 @@
 
 # Md. Sharif Hossain
 
-### Computational Engineer · Scientific Computing & HPC · Rust · C · Python
+### Senior Software Engineer · Frontend · AI-Native Development · Computational Engineering & HPC
 
 [![Location](https://img.shields.io/badge/📍-Berlin%2C%20Germany-0078D4?style=flat-square)](https://github.com/sharifme04)
 [![Email](https://img.shields.io/badge/📧-sharifmech04%40gmail.com-EA4335?style=flat-square)](mailto:sharifmech04@gmail.com)
@@ -15,18 +15,22 @@
 
 ## 🚀 About Me
 
-Computational engineer holding an **M.Sc. in Computational Materials Science** (TU Bergakademie Freiberg) with applied FEM simulation research at **Fraunhofer IWM** and **Montanuniversity Leoben**. Academic background covers finite element methods, molecular dynamics, discrete element method, stochastic simulation, high-performance computing, and numerical optimisation — all implemented from scratch in C during doctoral-level coursework.
+**7+ years** Senior Software Engineer building production systems across frontend, mobile, backend, and realtime communication — and an **M.Sc. in Computational Materials Science** with hands-on FEM simulation research. I work across the full stack, apply **AI-native development** workflows daily (Claude, GPT, Gemini), and build scientific computing projects in Rust from first principles.
 
-Currently rebuilding a full scientific computing portfolio in **Rust** as a deliberate return to computational engineering and simulation roles. Brings the rare additional capability of **7+ years production software engineering** in Rust, TypeScript, and Node.js — enabling both simulation development and robust software integration.
+I am **not limited to one domain** — I can deliver across:
 
 <table>
 <tr>
-<td>✅ M.Sc. Computational Materials Science</td>
-<td>✅ FEM research — Fraunhofer IWM & Montanuniversity Leoben</td>
+<td>🖥️ Frontend — React, TypeScript, React Native, Flutter, Angular</td>
+<td>⚙️ Backend — Node.js, Axum (Rust), PostgreSQL, Redis, MongoDB</td>
 </tr>
 <tr>
-<td>✅ Scientific computing portfolio in Rust (from scratch)</td>
-<td>✅ 7+ years production software engineering</td>
+<td>🤖 AI-Native Development — Claude, GPT, Gemini, MCP, prompt engineering, multi-model workflows</td>
+<td>🔬 Computational / HPC — FEM, MD, DEM, Monte Carlo, Rust from scratch</td>
+</tr>
+<tr>
+<td>📱 Mobile — Flutter (offline-first, Drift/SQLite, flutter_rust_bridge FFI)</td>
+<td>☁️ Cloud & DevOps — AWS, Docker, GitHub Actions CI/CD</td>
 </tr>
 </table>
 
@@ -97,20 +101,12 @@ Doctoral-level coursework:
 | Numerical Analysis of Differential Equations | — | ODE/PDE solvers, stability, convergence |
 | Dislocation Theory & DEM | 2.8 | Contact mechanics, granular flow |
 
-**Master Thesis** — FEM Simulation, Fraunhofer Institute for Mechanics of Materials (IWM)
+**Master Thesis** — FEM Simulation, Fraunhofer Institute for Mechanics of Materials (IWM), Germany *(2014–2015)*
+
+**Research Engineer (Project Role)** — FEM Simulation, Montanuniversity Leoben, Austria *(Feb–Jun 2016)*
 
 ### B.Sc. Mechanical Engineering — 2004–2009
 **Chittagong University of Engineering and Technology (CUET), Bangladesh**
-
----
-
-## 🔭 Research Experience
-
-**Master Thesis — FEM Simulation** · Fraunhofer IWM, Germany *(2014–2015)*
-> Conducted FEM simulations as part of applied materials research; structural and mechanical analysis relevant to materials behaviour under load.
-
-**Research Engineer — FEM Simulation (Project Role)** · Montanuniversity Leoben, Austria *(Feb–Jun 2016)*
-> FEM structural optimisation of flanges and ball valves for oil & gas applications; mechanical simulation and engineering analysis in an applied industrial R&D environment.
 
 ---
 
@@ -133,11 +129,11 @@ Doctoral-level coursework:
 <td valign="top" width="50%">
 
 **Languages & Stacks**
-- 🦀 **Rust** — FEM, MD, Monte Carlo, HPC solvers (all from scratch)
-- ⚙️ **C / C++** — NLopt, numerical algorithms
-- 🐍 **Python** — NumPy, SciPy, matplotlib
-- 💻 **TypeScript / JavaScript** — React, React Native, Node.js
+- 💻 **TypeScript / JavaScript** — React, React Native, Angular, Node.js, Express
 - 📱 **Dart / Flutter** — offline-first mobile, flutter_rust_bridge FFI
+- 🦀 **Rust** — FEM, MD, Monte Carlo, HPC solvers, Axum backend
+- 🐍 **Python** — NumPy, SciPy, matplotlib
+- ⚙️ **C / C++** — NLopt, numerical algorithms
 
 </td>
 </tr>
@@ -153,10 +149,15 @@ Doctoral-level coursework:
 </td>
 <td valign="top">
 
-**Cloud, DevOps & AI**
+**AI-Native Development**
+- Claude · GPT · Gemini — daily engineering workflows
+- Prompt engineering · MCP server · Context-file design
+- Multi-model validation · Architecture planning · Technical audits
+- AI-assisted implementation at architecture scale
+
+**Cloud & DevOps**
 - AWS EC2 · S3 · Lambda · API Gateway · DynamoDB · SNS · IAM
 - GitHub Actions CI/CD · Docker · Prometheus
-- Claude · GPT · Gemini — prompt engineering, MCP server, multi-model validation
 
 </td>
 </tr>
@@ -212,14 +213,19 @@ Doctoral-level coursework:
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Open To
 
-```
-Scientific Computing in Rust  ██████████████████████░░  HPC & Numerical Simulation
-Computational Engineering Roles  ████████████████████░░░░  Systems Programming
-```
+I am open to a **wide range of roles** — not limited to scientific computing:
 
-> ⭐ Open to opportunities at the intersection of **Scientific Computing · HPC · Simulation · Systems Engineering**
+| Domain | What I bring |
+|---|---|
+| 🖥️ Frontend / Full-Stack | React, TypeScript, React Native, Flutter, Angular — 7+ years production |
+| 🤖 AI-Native / AI-Assisted Engineering | Daily Claude/GPT/Gemini workflows, MCP, prompt engineering, multi-model validation |
+| ⚙️ Backend & Systems | Rust (Axum), Node.js, PostgreSQL, Redis, WebSocket, WebRTC |
+| 🔬 Computational / HPC / Simulation | FEM, MD, DEM, Monte Carlo, HPC solvers — Rust from scratch |
+| 📱 Mobile | Flutter offline-first, Drift/SQLite, flutter_rust_bridge FFI |
+
+> ⭐ Available for **frontend, full-stack, AI-native, backend, or computational engineering** roles · Berlin or remote
 
 ---
 
