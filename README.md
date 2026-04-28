@@ -2,7 +2,9 @@
 
 # Md. Sharif Hossain
 
-### Senior Software Engineer · Frontend · AI-Native Development · Computational Engineering & HPC
+### AI-Native Developer · Scientific Computing & HPC · Senior Software Engineer · Frontend & Backend
+
+`JavaScript` `TypeScript` `React` `Node.js` `Flutter` `React Native` `Rust` `Python` `FEM` `MD` `HPC`
 
 [![Location](https://img.shields.io/badge/📍-Berlin%2C%20Germany-0078D4?style=flat-square)](https://github.com/sharifme04)
 [![Email](https://img.shields.io/badge/📧-sharifmech04%40gmail.com-EA4335?style=flat-square)](mailto:sharifmech04@gmail.com)
@@ -21,15 +23,15 @@ I am **not limited to one domain** — I can deliver across:
 
 <table>
 <tr>
-<td>🖥️ Frontend — React, TypeScript, React Native, Flutter, Angular</td>
-<td>⚙️ Backend — Node.js, Axum (Rust), PostgreSQL, Redis, MongoDB</td>
-</tr>
-<tr>
 <td>🤖 AI-Native Development — Claude, GPT, Gemini, MCP, prompt engineering, multi-model workflows</td>
-<td>🔬 Computational / HPC — FEM, MD, DEM, Monte Carlo, Rust from scratch</td>
+<td>🔬 Computational / HPC — FEM (MATLAB + Rust), MD, DEM, Monte Carlo, HPC solvers from scratch</td>
 </tr>
 <tr>
-<td>📱 Mobile — Flutter (offline-first, Drift/SQLite, flutter_rust_bridge FFI)</td>
+<td>🖥️ Frontend — React, TypeScript, JavaScript, Angular, Redux, Redux-Saga</td>
+<td>⚙️ Backend — Node.js, Axum (Rust), PostgreSQL, Redis, MongoDB, WebSocket, WebRTC</td>
+</tr>
+<tr>
+<td>📱 Mobile — Flutter · React Native · Redux · Drift/SQLite · offline-first · flutter_rust_bridge FFI</td>
 <td>☁️ Cloud & DevOps — AWS, Docker, GitHub Actions CI/CD</td>
 </tr>
 </table>
@@ -42,9 +44,9 @@ I am **not limited to one domain** — I can deliver across:
 
 <table>
 <tr>
-<th>Project</th>
-<th>Key Methods</th>
-<th>Highlights</th>
+<th bgcolor="#1f6feb"><font color="white">Project</font></th>
+<th bgcolor="#1f6feb"><font color="white">Key Methods</font></th>
+<th bgcolor="#1f6feb"><font color="white">Highlights</font></th>
 </tr>
 <tr>
 <td><b>🧮 <a href="https://github.com/sharifme04/fem-solver">2D FEM Solver — Linear Elasticity</a></b></td>
@@ -88,25 +90,25 @@ I am **not limited to one domain** — I can deliver across:
 ## 🎓 Education
 
 ### M.Sc. Computational Materials Science — 2011–2015
-**TU Bergakademie Freiberg, Germany**
+Germany
 
 Doctoral-level coursework:
 
-| Course | Grade | Topics |
-|---|---|---|
-| Selected Topics of FEM | 1.7 | CST elements, sparse assembly, weak form derivation |
-| High Performance Computing & Optimisation | — | OpenMP, NUMA topology, hardware counters, BLAS benchmarking |
-| Stochastic Methods for Materials Science | — | NLopt COBYLA, Monte Carlo confidence bands, Boolean models |
-| Molecular Dynamics | — | Nosé–Hoover thermostat, symplecticity proofs, Velocity Verlet |
-| Numerical Analysis of Differential Equations | — | ODE/PDE solvers, stability, convergence |
-| Dislocation Theory & DEM | 2.8 | Contact mechanics, granular flow |
+| Course | Topics |
+|---|---|
+| Selected Topics of FEM | CST elements, sparse assembly, weak form derivation · MATLAB & C |
+| High Performance Computing & Optimisation | OpenMP, NUMA topology, hardware counters, BLAS benchmarking |
+| Stochastic Methods for Materials Science | NLopt COBYLA, Monte Carlo confidence bands, Boolean models |
+| Molecular Dynamics | Nosé–Hoover thermostat, symplecticity proofs, Velocity Verlet |
+| Numerical Analysis of Differential Equations | ODE/PDE solvers, stability, convergence |
+| Dislocation Theory & DEM | Contact mechanics, granular flow |
 
-**Master Thesis** — FEM Simulation, Fraunhofer Institute for Mechanics of Materials (IWM), Germany *(2014–2015)*
+**Master Thesis** — FEM Simulation, Fraunhofer IWM, Germany *(2014–2015)*
 
-**Research Engineer (Project Role)** — FEM Simulation, Montanuniversity Leoben, Austria *(Feb–Jun 2016)*
+**Research Engineer (Project Role)** — FEM Simulation, Montanuniversity Leoben *(Feb–Jun 2016)*
 
 ### B.Sc. Mechanical Engineering — 2004–2009
-**Chittagong University of Engineering and Technology (CUET), Bangladesh**
+Bangladesh
 
 ---
 
@@ -129,11 +131,12 @@ Doctoral-level coursework:
 <td valign="top" width="50%">
 
 **Languages & Stacks**
-- 💻 **TypeScript / JavaScript** — React, React Native, Angular, Node.js, Express
+- 💻 **TypeScript / JavaScript** — React, React Native, Redux, Redux-Saga, Angular, Node.js, Express
 - 📱 **Dart / Flutter** — offline-first mobile, flutter_rust_bridge FFI
 - 🦀 **Rust** — FEM, MD, Monte Carlo, HPC solvers, Axum backend
 - 🐍 **Python** — NumPy, SciPy, matplotlib
-- ⚙️ **C / C++** — NLopt, numerical algorithms
+- 🔧 **MATLAB** — FEM simulation, numerical analysis
+- ⚙️ **C** — NLopt, numerical algorithms, convergence/divergence simulation
 
 </td>
 </tr>
@@ -219,11 +222,11 @@ I am open to a **wide range of roles** — not limited to scientific computing:
 
 | Domain | What I bring |
 |---|---|
-| 🖥️ Frontend / Full-Stack | React, TypeScript, React Native, Flutter, Angular — 7+ years production |
 | 🤖 AI-Native / AI-Assisted Engineering | Daily Claude/GPT/Gemini workflows, MCP, prompt engineering, multi-model validation |
+| 🔬 Computational / HPC / Simulation | FEM (MATLAB + Rust), MD, DEM, Monte Carlo, HPC solvers from scratch |
+| 🖥️ Frontend / Full-Stack | React, TypeScript, JavaScript, React Native, Redux, Angular, Flutter — 7+ years |
 | ⚙️ Backend & Systems | Rust (Axum), Node.js, PostgreSQL, Redis, WebSocket, WebRTC |
-| 🔬 Computational / HPC / Simulation | FEM, MD, DEM, Monte Carlo, HPC solvers — Rust from scratch |
-| 📱 Mobile | Flutter offline-first, Drift/SQLite, flutter_rust_bridge FFI |
+| 📱 Mobile | Flutter · React Native · Redux · offline-first · Drift/SQLite · flutter_rust_bridge FFI |
 
 > ⭐ Available for **frontend, full-stack, AI-native, backend, or computational engineering** roles · Berlin or remote
 
