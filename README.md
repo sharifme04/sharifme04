@@ -8,12 +8,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI--Native%20Developer-1f6feb?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Senior%20Software%20Engineer-0d419d?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scientific%20Computing%20%26%20HPC-1a5f4a?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend%20%26%20Backend-4a1d96?style=for-the-badge&logoColor=white" />
-</p>
+<h3 align="center">AI-Native Developer &nbsp;·&nbsp; Senior Software Engineer &nbsp;·&nbsp; Scientific Computing &amp; HPC &nbsp;·&nbsp; Frontend &amp; Backend</h3>
 
 <div align="center">
 
