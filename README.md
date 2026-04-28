@@ -1,10 +1,16 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fredgrott/FredGrott/gh-pages/waves.svg" width="100%" height="150">
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=110&lines=Md.+Sharif+Hossain;AI-Native+%7C+Senior+Software+Engineer;Scientific+Computing+%26+HPC+%7C+Frontend+%26+Backend" alt="Typing SVG" />
+  </a>
+</p>
+
 <div align="center">
 
-# Md. Sharif Hossain
-
-### AI-Native Developer · Scientific Computing & HPC · Senior Software Engineer · Frontend & Backend
-
-`Python` `Rust` `C` `HPC` `JavaScript` `TypeScript` `Node.js` `Dart` `Flutter` `React Native` `C`  `FEM` `MD` 
+`JavaScript` `TypeScript` `React` `Node.js` `Rust` `Python` `C` `Dart` `Flutter` `React Native` `FEM` `HPC` `MD`
 
 [![Location](https://img.shields.io/badge/📍-Berlin%2C%20Germany-0078D4?style=flat-square)](https://github.com/sharifme04)
 [![Email](https://img.shields.io/badge/📧-sharifmech04%40gmail.com-EA4335?style=flat-square)](mailto:sharifmech04@gmail.com)
@@ -44,9 +50,9 @@ I am **not limited to one domain** — I can deliver across:
 
 <table>
 <tr>
-<th bgcolor="#1f6feb"><font color="white">Project</font></th>
-<th bgcolor="#1f6feb"><font color="white">Key Methods</font></th>
-<th bgcolor="#1f6feb"><font color="white">Highlights</font></th>
+<th><img src="https://img.shields.io/badge/Project-1f6feb?style=flat-square"/></th>
+<th><img src="https://img.shields.io/badge/Key%20Methods-1f6feb?style=flat-square"/></th>
+<th><img src="https://img.shields.io/badge/Highlights-1f6feb?style=flat-square"/></th>
 </tr>
 <tr>
 <td><b>🧮 <a href="https://github.com/sharifme04/fem-solver">2D FEM Solver — Linear Elasticity</a></b></td>
