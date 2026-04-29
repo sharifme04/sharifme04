@@ -184,7 +184,7 @@ Bangladesh
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a5f,100:2563eb&height=38&text=%F0%9F%92%BC%20Industry%20Experience&fontColor=ffffff&fontSize=18&fontAlign=4&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a5f,100:2563eb&height=38&text=💼%20Industry%20Experience&fontColor=ffffff&fontSize=18&fontAlign=10&fontAlignY=65" />
 
 ## 💼 Industry Experience
 
@@ -216,7 +216,7 @@ Bangladesh
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:374151&height=38&text=%F0%9F%93%8A%20GitHub%20Stats&fontColor=ffffff&fontSize=18&fontAlign=4&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:374151&height=38&text=📊%20GitHub%20Stats&fontColor=ffffff&fontSize=18&fontAlign=10&fontAlignY=65" />
 
 ## 📊 GitHub Stats
 
