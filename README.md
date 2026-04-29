@@ -48,6 +48,47 @@ I am **not limited to one domain** — I can deliver across:
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d6efd,100:0ea5e9&height=38&text=💻%20Full-Stack%20Portfolio%20—%20Selected%20Projects&fontColor=ffffff&fontSize=16&fontAlign=50&fontAlignY=65" />
+
+## 💻 Full-Stack Portfolio — Selected Projects
+
+> Production-grade web, realtime and cloud systems — frontend, backend, and realtime engineering.
+
+<table>
+<tr>
+<th><img src="https://img.shields.io/badge/Project-1f6feb?style=flat-square"/></th>
+<th><img src="https://img.shields.io/badge/Key%20Tech-1f6feb?style=flat-square"/></th>
+<th><img src="https://img.shields.io/badge/Highlights-1f6feb?style=flat-square"/></th>
+</tr>
+<tr>
+<td><b>🏦 <a href="https://github.com/sharifme04/microfinanceMFI">Microfinance Platform (MFI)</a></b></td>
+<td>Node.js · Express ·python. PostgreSQL · React/next js frontend</td>
+<td>Loan lifecycle, auditing, python calculation engine, production-ready workflows</td>
+</tr>
+<tr>
+<td><b>💼 <a href="https://github.com/sharifme04/jobboard-platform">Job Board Platform</a></b></td>
+<td>React · Node.js · Apollo/GraphQL · MongoDB</td>
+<td>Realtime job postings, search, recruiter workflows, analytics</td>
+</tr>
+<tr>
+<td><b>🔁 <a href="https://github.com/sharifme04/task-management-realtime">Task Management — Realtime</a></b></td>
+<td>WebSocket · Redis · React · Node.js</td>
+<td>Realtime collaboration, presence, conflict resolution, offline sync</td>
+</tr>
+<tr>
+<td><b>⚙️ <a href="https://github.com/sharifme04/angularnode">Angular + Node.js Starter</a></b></td>
+<td>Angular · Node.js · Express</td>
+<td>Enterprise-ready starter with auth, routing, and API integration</td>
+</tr>
+<tr>
+<td><b>☁️ <a href="https://github.com/sharifme04/aws-ec2-lambda-s3-hybrid-cloud">AWS EC2 / Lambda / S3 — Hybrid Cloud</a></b></td>
+<td>AWS EC2 · Lambda · S3 · API Gateway</td>
+<td>Hybrid cloud patterns, serverless APIs, asset hosting and deployment</td>
+</tr>
+</table>
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a5f4a,100:21867a&height=38&text=🔬%20Scientific%20Computing%20Portfolio%20—%20Rust&fontColor=ffffff&fontSize=16&fontAlign=50&fontAlignY=65" />
 
 ## 🔬 Scientific Computing Portfolio — Rust (All From Scratch)
