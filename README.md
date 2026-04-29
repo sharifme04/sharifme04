@@ -85,6 +85,16 @@ I am **not limited to one domain** — I can deliver across:
 <td>AWS EC2 · Lambda · S3 · API Gateway</td>
 <td>Hybrid cloud patterns, serverless APIs, asset hosting and deployment</td>
 </tr>
+<tr>
+<td><b>🔗 <a href="https://github.com/sharifme04/url-shortener-vuejs">URL Shortener — Vue.js</a></b></td>
+<td>Vue.js · Node.js · MongoDB</td>
+<td>Simple, fast URL shortening service with analytics and link management</td>
+</tr>
+<tr>
+<td><b>📊 <a href="https://github.com/sharifme04/expense-tracker-vuejs">Expense Tracker — Vue.js</a></b></td>
+<td>Vue.js · Node.js · SQLite/Postgres</td>
+<td>Expense tracking, charts, categories, and exportable reports</td>
+</tr>
 </table>
 
 ---
