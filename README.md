@@ -23,7 +23,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d419d,100:1f6feb&height=38&text=🚀%20About%20Me&fontColor=ffffff&fontSize=18&fontAlign=10&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d419d,100:1f6feb&height=38&text=🚀%20About%20Me&fontColor=ffffff&fontSize=18&fontAlign=50&fontAlignY=65" />
 
 ## 🚀 About Me
 
@@ -48,7 +48,7 @@ I am **not limited to one domain** — I can deliver across:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a5f4a,100:21867a&height=38&text=Scientific%20Computing%20Portfolio%20%E2%80%94%20Rust&fontColor=ffffff&fontSize=16&fontAlign=50&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a5f4a,100:21867a&height=38&text=🔬%20Scientific%20Computing%20Portfolio%20—%20Rust&fontColor=ffffff&fontSize=16&fontAlign=50&fontAlignY=65" />
 
 ## 🔬 Scientific Computing Portfolio — Rust (All From Scratch)
 
@@ -99,7 +99,7 @@ I am **not limited to one domain** — I can deliver across:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4a1d96,100:7c3aed&height=38&text=🎓%20Education&fontColor=ffffff&fontSize=18&fontAlign=10&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4a1d96,100:7c3aed&height=38&text=🎓%20Education&fontColor=ffffff&fontSize=18&fontAlign=50&fontAlignY=65" />
 
 ## 🎓 Education
 
@@ -126,7 +126,7 @@ Bangladesh
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:b45309,100:d97706&height=38&text=🧠%20Technical%20Skills&fontColor=ffffff&fontSize=18&fontAlign=10&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:b45309,100:d97706&height=38&text=🧠%20Technical%20Skills&fontColor=ffffff&fontSize=18&fontAlign=50&fontAlignY=65" />
 
 ## 🧠 Technical Skills
 
@@ -184,7 +184,7 @@ Bangladesh
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a5f,100:2563eb&height=38&text=💼%20Industry%20Experience&fontColor=ffffff&fontSize=18&fontAlign=10&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a5f,100:2563eb&height=38&text=💼%20Industry%20Experience&fontColor=ffffff&fontSize=18&fontAlign=50&fontAlignY=65" />
 
 ## 💼 Industry Experience
 
@@ -216,7 +216,7 @@ Bangladesh
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:374151&height=38&text=📊%20GitHub%20Stats&fontColor=ffffff&fontSize=18&fontAlign=10&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:374151&height=38&text=📊%20GitHub%20Stats&fontColor=ffffff&fontSize=18&fontAlign=50&fontAlignY=65" />
 
 ## 📊 GitHub Stats
 
@@ -230,7 +230,7 @@ Bangladesh
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:166534,100:16a34a&height=38&text=🌍%20Languages&fontColor=ffffff&fontSize=18&fontAlign=10&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:166534,100:16a34a&height=38&text=🌍%20Languages&fontColor=ffffff&fontSize=18&fontAlign=50&fontAlignY=65" />
 
 ## 🌍 Languages
 
@@ -238,7 +238,7 @@ Bangladesh
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c2d12,100:ea580c&height=38&text=🎯%20Open%20To&fontColor=ffffff&fontSize=18&fontAlign=10&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c2d12,100:ea580c&height=38&text=🎯%20Open%20To&fontColor=ffffff&fontSize=18&fontAlign=50&fontAlignY=65" />
 
 ## 🎯 Open To
 
