@@ -48,7 +48,7 @@ I am **not limited to one domain** — I can deliver across:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a5f4a,100:21867a&height=38&text=🔬%20Scientific%20Computing%20Portfolio%20%E2%80%94%20Rust%20(All%20From%20Scratch)&fontColor=ffffff&fontSize=16&fontAlign=10&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a5f4a,100:21867a&height=38&text=Scientific%20Computing%20Portfolio%20%E2%80%94%20Rust&fontColor=ffffff&fontSize=16&fontAlign=50&fontAlignY=65" />
 
 ## 🔬 Scientific Computing Portfolio — Rust (All From Scratch)
 
