@@ -23,7 +23,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d419d,100:1f6feb&height=38&text=%F0%9F%9A%80%20About%20Me&fontColor=ffffff&fontSize=18&fontAlign=5&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d419d,100:1f6feb&height=38&text=🚀%20About%20Me&fontColor=ffffff&fontSize=18&fontAlign=10&fontAlignY=65" />
 
 ## 🚀 About Me
 
@@ -42,13 +42,13 @@ I am **not limited to one domain** — I can deliver across:
 </tr>
 <tr>
 <td>📱 Mobile — Flutter · React Native · Redux · Drift/SQLite · offline-first · flutter_rust_bridge FFI</td>
-<td>☁️ Cloud & DevOps — AWS, Docker, GitHub Actions CI/CD</td>
+<td>☁️ Cloud & DevOps — AWS, Docker,Azure, BitBucket, GitHub Actions CI/CD</td>
 </tr>
 </table>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a5f4a,100:21867a&height=38&text=%F0%9F%94%AC%20Scientific%20Computing%20Portfolio%20%E2%80%94%20Rust%20(All%20From%20Scratch)&fontColor=ffffff&fontSize=16&fontAlign=5&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a5f4a,100:21867a&height=38&text=🔬%20Scientific%20Computing%20Portfolio%20%E2%80%94%20Rust%20(All%20From%20Scratch)&fontColor=ffffff&fontSize=16&fontAlign=10&fontAlignY=65" />
 
 ## 🔬 Scientific Computing Portfolio — Rust (All From Scratch)
 
@@ -238,7 +238,7 @@ Bangladesh
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c2d12,100:ea580c&height=38&text=%F0%9F%8E%AF%20Open%20To&fontColor=ffffff&fontSize=18&fontAlign=4&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c2d12,100:ea580c&height=38&text=🎯%20Open%20To&fontColor=ffffff&fontSize=18&fontAlign=10&fontAlignY=65" />
 
 ## 🎯 Open To
 
