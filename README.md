@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h3 align="center">AI-Native Developer &nbsp;·&nbsp; Senior Software Engineer &nbsp;·&nbsp; Scientific Computing &amp; HPC &nbsp;·&nbsp; Frontend &amp; Backend</h3>
+<h3 align="center">AI-Native Developer &nbsp;·&nbsp;Frontend &amp; Backend  &nbsp;·&nbsp;  Scientific Computing &amp; HPC &nbsp;·&nbsp;   Mathematical Programming &nbsp;·&nbsp; Senior Software Engineer </h3>
 
 <div align="center">
 
