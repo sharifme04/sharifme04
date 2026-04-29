@@ -126,7 +126,7 @@ Bangladesh
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:b45309,100:d97706&height=38&text=%F0%9F%A7%A0%20Technical%20Skills&fontColor=ffffff&fontSize=18&fontAlign=4&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:b45309,100:d97706&height=38&text=🧠%20Technical%20Skills&fontColor=ffffff&fontSize=18&fontAlign=10&fontAlignY=65" />
 
 ## 🧠 Technical Skills
 
