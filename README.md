@@ -48,6 +48,27 @@ I am **not limited to one domain** — I can deliver across:
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a855f7&height=38&text=🤖%20AI%20%26%20LLM%20Integration%20Portfolio&fontColor=ffffff&fontSize=16&fontAlign=50&fontAlignY=65" />
+
+## 🤖 AI & LLM Integration Portfolio
+
+> Production AI/LLM services — FastAPI backends, Claude/GPT integration, cost tracking, and intelligent workflows.
+
+<table>
+<tr>
+<th><img src="https://img.shields.io/badge/Project-1f6feb?style=flat-square"/></th>
+<th><img src="https://img.shields.io/badge/Key%20Tech-1f6feb?style=flat-square"/></th>
+<th><img src="https://img.shields.io/badge/Highlights-1f6feb?style=flat-square"/></th>
+</tr>
+<tr>
+<td><b>🎟️ <a href="https://github.com/sharifme04/fastapi-llm-ticket-classifier">Ticket Classifier — Claude LLM Integration</a></b></td>
+<td>FastAPI · Claude API · PostgreSQL · Redis · Docker</td>
+<td>Automatic ticket classification · suggested responses · cost tracking · Redis caching · production-ready API</td>
+</tr>
+</table>
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d6efd,100:0ea5e9&height=38&text=💻%20Full-Stack%20Portfolio%20—%20Selected%20Projects&fontColor=ffffff&fontSize=16&fontAlign=50&fontAlignY=65" />
 
 ## 💻 Full-Stack Portfolio — Selected Projects
