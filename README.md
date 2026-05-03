@@ -48,7 +48,7 @@ I am **not limited to one domain** — I can deliver across:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a855f7&height=38&text=🤖%20AI%20%26%20LLM%20Integration%20Portfolio&fontColor=ffffff&fontSize=16&fontAlign=50&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6d28d9,100:d946ef&height=38&text=🤖%20AI%20%26%20LLM%20Integration%20Portfolio&fontColor=ffffff&fontSize=16&fontAlign=50&fontAlignY=65" />
 
 ## 🤖 AI & LLM Integration Portfolio
 
