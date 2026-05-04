@@ -61,6 +61,11 @@ I am **not limited to one domain** — I can deliver across:
 <th><img src="https://img.shields.io/badge/Highlights-1f6feb?style=flat-square"/></th>
 </tr>
 <tr>
+<td><b>🔍 <a href="https://github.com/sharifme04/fastapi-LLM-code-review-assistant">Code Review Assistant — Real-time Reviews with Tool Calling</a></b></td>
+<td>FastAPI · WebSocket · Claude API · PostgreSQL · Redis · Docker</td>
+<td>Real-time streaming code reviews · manual tool-calling loop · documentation lookup · style guide checking · production-ready</td>
+</tr>
+<tr>
 <td><b>🎟️ <a href="https://github.com/sharifme04/fastapi-llm-ticket-classifier">Ticket Classifier — Claude LLM Integration</a></b></td>
 <td>FastAPI · Claude API · PostgreSQL · Redis · Docker</td>
 <td>Automatic ticket classification · suggested responses · cost tracking · Redis caching · production-ready API</td>
