@@ -44,6 +44,10 @@ I am **not limited to one domain** — I can deliver across:
 <td>📱 Mobile — Flutter · React Native · Redux · Drift/SQLite · offline-first · flutter_rust_bridge FFI</td>
 <td>☁️ Cloud & DevOps — AWS, Docker,Azure, BitBucket, GitHub Actions CI/CD</td>
 </tr>
+<tr>
+<td>🤖 Backend AI Engineering — FastAPI · Uvicorn · RAG pipelines · Vector search (cosine similarity) · Pydantic v2 · SQLAlchemy 2.0 (async)</td>
+<td>⚡ Production Patterns — asyncpg · Alembic migrations · pytest-asyncio · slowapi rate limiting · Cost tracking · Redis caching · pgvector</td>
+</tr>
 </table>
 
 ---
