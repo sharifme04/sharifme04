@@ -70,6 +70,21 @@ I am **not limited to one domain** — I can deliver across:
 <td>FastAPI · Claude API · PostgreSQL · Redis · Docker</td>
 <td>Automatic ticket classification · suggested responses · cost tracking · Redis caching · production-ready API</td>
 </tr>
+<tr>
+<td><b>📄 <a href="https://github.com/sharifme04/fastAPi-LLM-paper-RAG-api">Scientific Paper Q&A — Full RAG Pipeline</a></b></td>
+<td>FastAPI · pgvector · Claude API · embeddings · ragas evals · Docker</td>
+<td>Complete RAG system · PDF ingestion · semantic chunking · vector search · grounded answers with citations · eval framework in CI</td>
+</tr>
+<tr>
+<td><b>🔬 <a href="https://github.com/sharifme04/FastAPI-LLM-research-synth-agent">Research Synthesis Agent — Hybrid Search + Multi-Doc Planning</a></b></td>
+<td>FastAPI · pgvector · BM25 · Agent Planning · Claude API · Langfuse · ragas</td>
+<td>Hybrid search (vector + keyword) · multi-document agent orchestration · parallel retrieval · cross-document synthesis · agent tracing · advanced evaluation</td>
+</tr>
+<tr>
+<td><b>🧠 <a href="https://github.com/sharifme04/FastApi-LLM-learning-companion-langgraph">AI Learning Companion — LangGraph State Machine</a></b></td>
+<td>FastAPI · LangGraph · Claude API · pgvector · DeepEval · Haiku Fallback · Redis</td>
+<td>3-agent state machine (Responder + Assessor + Recommender) · persistent learning state · cost-driven model fallback · DeepEval CI gates · production reliability</td>
+</tr>
 </table>
 
 ---
