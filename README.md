@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h3 align="center">Senior AI-Native Developer &nbsp;·&nbsp; LLM integration &nbsp;·&nbsp; Frontend &amp; Backend &nbsp;·&nbsp; Scientific Computing &amp; HPC &nbsp;·&nbsp; Mathematical Programming</h3>
+<h3 align="center">Senior AI-Native Developer &nbsp;·&nbsp; Senior AI developer &nbsp;·&nbsp; LLM integration &nbsp;·&nbsp; Frontend &amp; Backend &nbsp;·&nbsp; Scientific Computing &amp; HPC &nbsp;·&nbsp; Mathematical Programming</h3>
 
 <div align="center">
 
