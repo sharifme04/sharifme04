@@ -38,7 +38,7 @@ I am **not limited to one domain** — I can deliver across:
 </tr>
 <tr>
 <td>🖥️ Frontend — React, TypeScript, JavaScript, Angular, Redux, Redux-Saga, Apollo GraphQL, Flutter, React native</td>
-<td>⚙️ Backend — Node.js, Axum (Rust), PostgreSQL, Redis, MongoDB, WebSocket, WebRTC</td>
+<td>⚙️ Backend — Node.js, Axum (Rust), Python FastAPI, PostgreSQL, Redis, MongoDB, WebSocket, WebRTC</td>
 </tr>
 <tr>
 <td>📱 Mobile — Flutter · React Native · Redux · Drift/SQLite · offline-first · flutter_rust_bridge FFI</td>
