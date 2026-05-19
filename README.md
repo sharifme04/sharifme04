@@ -106,6 +106,11 @@ I am **not limited to one domain** — I can deliver across:
 <th><img src="https://img.shields.io/badge/Highlights-1f6feb?style=flat-square"/></th>
 </tr>
 <tr>
+<td><b>🔔 <a href="https://github.com/sharifme04/rust-notification-service">Distributed Notification Service — Rust + gRPC + Kafka</a></b></td>
+<td>Rust · Axum · Tonic gRPC · Kafka · PostgreSQL · Redis · Angular · Kubernetes · Docker</td>
+<td>3-service distributed architecture · async event-driven pipeline · gRPC inter-service comms · WebSocket real-time feed · K8s HPA + Prometheus metrics · CI/CD</td>
+</tr>
+<tr>
 <td><b>🏦 <a href="https://github.com/sharifme04/microfinanceMFI">Microfinance Platform (MFI)</a></b></td>
 <td>Node.js · Express ·python. PostgreSQL · React/next js frontend</td>
 <td>Loan lifecycle, auditing, python calculation engine, production-ready workflows</td>
