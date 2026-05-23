@@ -29,6 +29,8 @@
 
 **7+ years** Senior Software Engineer building production systems across frontend, mobile, backend, and realtime communication — and an **M.Sc. in Computational Materials Science** with hands-on FEM simulation research. I work across the full stack, apply **AI-native development** workflows daily (Claude, GPT, Gemini), and build scientific computing projects in Rust from first principles.
 
+I have a strong mathematical foundation in numerical methods. Since vector search and AI-related work are also numerical, my learning curve is very fast.
+
 I am **not limited to one domain** — I can deliver across:
 
 <table>
@@ -45,11 +47,12 @@ I am **not limited to one domain** — I can deliver across:
 <td>☁️ Cloud & DevOps — AWS, Docker,Azure, BitBucket, GitHub Actions CI/CD</td>
 </tr>
 <tr>
-<td>🤖 Backend AI Engineering — FastAPI · Uvicorn · RAG pipelines · Vector search (cosine similarity) · Pydantic v2 · SQLAlchemy 2.0 (async)</td>
+<td>🤖 AI Engineering — FastAPI · Uvicorn · RAG pipelines · Vector search (cosine similarity) · Pydantic v2 · SQLAlchemy 2.0 (async)</td>
 <td>⚡ Production Patterns — asyncpg · Alembic migrations · pytest-asyncio · slowapi rate limiting · Cost tracking · Redis caching · pgvector</td>
 </tr>
 </table>
 
+> 🧠 **Vector search fundamentals** – cosine similarity, dot product, dense/sparse embeddings, pgvector, and recall/latency trade-offs in RAG pipelines (practiced daily in personal projects).
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6d28d9,100:d946ef&height=38&text=🤖%20AI%20%26amp%3B%20LLM%20Integration%20Portfolio&fontColor=ffffff&fontSize=16&fontAlign=50&fontAlignY=65" />
@@ -274,6 +277,7 @@ Bangladesh
 - Prompt engineering · MCP server · Context-file design
 - Multi-model validation · Architecture planning · Technical audits
 - AI-assisted implementation at architecture scale
+- **Vector search fundamentals** – cosine similarity, dot product, dense/sparse embeddings, pgvector, and practical recall/latency trade-offs
 
 **Cloud & DevOps**
 - AWS EC2 · S3 · Lambda · API Gateway · DynamoDB · SNS · IAM
