@@ -114,6 +114,11 @@ I am **not limited to one domain** — I can deliver across:
 <td>3-service distributed architecture · async event-driven pipeline · gRPC inter-service comms · WebSocket real-time feed · K8s HPA + Prometheus metrics · CI/CD</td>
 </tr>
 <tr>
+<td><b>🧊 <a href="https://github.com/sharifme04/-Interactive-3D-rotating-box">Interactive 3D Rotating Box</a></b></td>
+<td>React 19 · TypeScript · Three.js · Vite · Oxlint</td>
+<td>GPU raycasting hit detection · orbit camera controls with damped inertia · lazy-loaded Three.js bundle (React.lazy + Suspense) · full geometry/material/renderer disposal on unmount</td>
+</tr>
+<tr>
 <td><b>🏦 <a href="https://github.com/sharifme04/microfinanceMFI">Microfinance Platform (MFI)</a></b></td>
 <td>Node.js · Express ·python. PostgreSQL · React/next js frontend</td>
 <td>Loan lifecycle, auditing, python calculation engine, production-ready workflows</td>
