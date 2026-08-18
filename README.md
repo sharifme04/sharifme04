@@ -27,7 +27,7 @@
 
 ## 🚀 About Me
 
-**7+ years** Senior Software Engineer building production systems across frontend, mobile, backend, and realtime communication — and an **M.Sc. in Computational Materials Science** with hands-on FEM simulation research. I work across the full stack, apply **AI-native development** workflows daily (Claude, GPT, Gemini), and build scientific computing projects in Rust from first principles.
+**8+ years** Senior Software Engineer building production systems across frontend, mobile, backend, and realtime communication — and an **M.Sc. in Computational Materials Science** with hands-on FEM simulation research. I work across the full stack, apply **AI-native development** workflows daily (Claude, GPT, Gemini), and build scientific computing projects in Rust from first principles.
 
 I have a strong mathematical foundation in numerical methods. Since vector search and AI-related work are also numerical, my learning curve is very fast.
 
