@@ -27,7 +27,7 @@
 
 ## 🚀 About Me
 
-**8+ years** Senior Software Engineer building production systems across frontend, mobile, backend, and realtime communication — and an **M.Sc. in Computational Materials Science** with hands-on FEM simulation research. I work across the full stack, apply **AI-native development** workflows daily (Claude, GPT, Gemini), and build scientific computing projects in Rust from first principles.
+**8+ years** Senior Software Engineer building production systems across frontend, mobile, backend, and realtime communication — and an **M.Sc. in Computational Materials Science** with hands-on FEM simulation research. I work across the full stack, apply **AI-native development** workflows daily (Claude, GPT, Gemini), and build scientific computing projects in Rust from first principles. I also built this RAG education platform alone — **https://aishohopathi.com/** — a Rust backend with AI model integration: an AI classmate for Grades 6–10 that asks instead of telling, gives graduated hints instead of answers, and grounds every reply in 80 NCTB textbooks via vector search.
 
 I have a strong mathematical foundation in numerical methods. Since vector search and AI-related work are also numerical, my learning curve is very fast.
 
